@@ -7,14 +7,12 @@
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Некорректный вывод статуса валидного ключа 80b427f8-92cd-3aae-ba04-03927fbe17c6](https://github.com/kseniabobkova/KeyValidator/issues/1)
-* [Некорректный вывод статуса валидного ключа 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/kseniabobkova/KeyValidator/issues/2)
-* [Некорректный вывод статуса невалидного ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/kseniabobkova/KeyValidator/issues/3)
+* [Некорректный вывод статуса валидного ключа](https://github.com/kseniabobkova/KeyValidator/issues/2)
+* [Некорректный вывод статуса невалидного ключа](https://github.com/kseniabobkova/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [.gitignore](https://github.com/kseniabobkova/KeyValidator/blob/master/.gitignore)
 * [KeyValidator.class](https://github.com/kseniabobkova/KeyValidator/blob/master/KeyValidator.class)
 
 В качестве тестовых данных использовались данные:
